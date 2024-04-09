@@ -1,8 +1,8 @@
 {
-  "name": "astro-theme-typography",
+  "name": "pangxz",
   "type": "module",
   "version": "0.0.4",
-  "repository": "https://github.com/moeyua/astro-theme-typography",
+  "repository": "https://github.com/datoou/pangxz",
   "scripts": {
     "dev": "astro check && astro dev",
     "preview": "astro preview",
